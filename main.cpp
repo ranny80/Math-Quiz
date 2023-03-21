@@ -75,4 +75,6 @@ int main()
   {
     incorrectchoice(); // Letters don't recongize if you input it incorrectly
   }
+
+  return 0;
 }
